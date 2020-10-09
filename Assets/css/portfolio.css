@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+.quiz{
+    z-index: 3;
+    width: 300px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
